@@ -17,7 +17,15 @@ In this guide, we will walk through the steps necessary to take an online-procto
 
 - Complete the required system test on the same computer and in the same location from where you will test.
 
-- Make sure your test-taking area is compliant with all Microsoft rules regarding online-proctored exams.
+- Make sure your test-taking area is compliant with all Microsoft rules regarding online-proctored exams. Requirements include:
+
+  - Test area must be walled with a closed door.
+  
+  - No third-parties should be allowed in test-area.
+  
+  - Test area should be away from disruptions (especially if you are at home).
+  
+  - Test area should not have any posters or wall art.
 
 - Confirm that your ID is compliant (read the requirements) and that the name in your profile exactly matches your identification.
 
