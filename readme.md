@@ -26,6 +26,8 @@ In this guide, we will walk through the steps necessary to take an online-procto
   - Test area should be away from disruptions (especially if you are at home).
   
   - Test area should not have any posters or wall art.
+  
+  - Test area should be clear of any paper or documents.
 
 - Confirm that your ID is compliant (read the requirements) and that the name in your profile exactly matches your identification.
 
